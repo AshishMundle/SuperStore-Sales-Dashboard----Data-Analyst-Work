@@ -11,4 +11,4 @@ quantity, Total sales
 
 
 ## Page two:
-![SuperStore-Sales-Dashboard----Data-Analyst-Work](https://github.com/AshishMundle/SuperStore-Sales-Dashboard----Data-Analyst-Work/blob/main/Super%20Store%20Sale%20Dashboard%201%20-%20project%20work.png)
+![SuperStore-Sales-Dashboard----Data-Analyst-Work](https://github.com/AshishMundle/SuperStore-Sales-Dashboard----Data-Analyst-Work/blob/main/Super%20Store%20Sale%20Dashboard%202%20-%20project%20work.png)
